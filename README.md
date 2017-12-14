@@ -1,5 +1,5 @@
 # python
-Python Tutorial 
+Python Tutorial on Ubuntu(with VScode)
 
 - Python2(2.7.12)
     Basic training for py version 2.
