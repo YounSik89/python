@@ -1,0 +1,1 @@
+__all__ = ['exam1'] # import * 하면 exam1만 import된다
